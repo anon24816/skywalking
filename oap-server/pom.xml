@@ -90,7 +90,7 @@
         <netty.version>4.1.42.Final</netty.version>
         <jackson-module-afterburner.version>2.9.5</jackson-module-afterburner.version>
         <antlr.version>4.7.1</antlr.version>
-        <freemarker.version>2.3.28</freemarker.version>
+        <freemarker.version>2.3.30</freemarker.version>
         <javaassist.version>3.25.0-GA</javaassist.version>
         <vavr.version>0.10.3</vavr.version>
         <groovy.version>3.0.3</groovy.version>
