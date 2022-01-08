@@ -278,7 +278,7 @@
             <dependency>
                 <groupId>io.grpc</groupId>
                 <artifactId>grpc-protobuf</artifactId>
-                <version>${grpc.version}</version>
+                <version>1.41.2</version>
             </dependency>
 
             <dependency>
