@@ -59,7 +59,7 @@
         <guava.version>28.1-jre</guava.version>
         <snakeyaml.version>1.18</snakeyaml.version>
         <graphql-java-tools.version>5.2.3</graphql-java-tools.version>
-        <graphql-java.version>8.0</graphql-java.version>
+        <graphql-java.version>vTEST</graphql-java.version>
         <zookeeper.version>3.4.10</zookeeper.version>
         <netty-tcnative-boringssl-static.version>2.0.26.Final</netty-tcnative-boringssl-static.version>
         <jetty.version>9.4.28.v20200408</jetty.version>
